@@ -1,17 +1,18 @@
 html {
     height: 100%
 }
-bodytmp {
+body {
   background-image: url(images/background1.jpg);
   background-position: center;
 	background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 h1 {
-  color: #9A2617;
+  color: #FFFFFF;
   text-align: center;
   height: 60px;
   font-family: 'Open Sans', sans-serif;
+  font-style: italic;
   font-size: 200%;
 }
 #planettbl {
@@ -19,16 +20,17 @@ h1 {
   margin-right: auto;
   text-align: center;
   width: 60%;
-  height: 480px;
+  height: 440px;
   border: 2px solid #FFFFFF;
   border-collapse: collapse;
 }
-#theadhdr {
+#theadhdr th {
   padding-top: 1px;
   background-color: #9A2617;
   color: #FFFFFF;
   border: 1px solid #FFFFFF;	
   font-family: 'Open Sans', sans-serif;
+  font-size: 125%;
 }
 #tbodyinfo th {
   padding-top: 1px;
@@ -43,4 +45,32 @@ h1 {
   color: #000000;
   border: 1px solid #9A2617;	
   font-family: 'Open Sans', sans-serif;
+}
+#earthimg {
+  display: block;
+  padding: 0 0 0 50px;
+  position: relative;
+  float: left;
+  width: 100px;
+}
+#marsimg {
+  display: block;
+  padding: 0 50px 0 0;
+  position: relative;
+  float: right;
+  width: 100px;
+}
+#saturnimg {
+  display: block;
+  padding: 0 0 0 50px;
+  position: relative;
+  float: left;
+  width: 100px;
+}
+#jupiterimg {
+  display: block;
+  padding: 0 50px 0 0;
+  position: relative;
+  float: right;
+  width: 100px;
 }
