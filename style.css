@@ -21,3 +21,10 @@ h1 {
   border: 2px solid #FFFFFF;
   border-collapse: collapse;
 }
+#theadhdr {
+  padding-top: 1px;
+  background-color: #9A2617;
+  color: #FFFFFF;
+  border: 1px solid #FFFFFF;	
+  font-family: 'Open Sans', sans-serif;
+}
