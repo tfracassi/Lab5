@@ -28,3 +28,17 @@ h1 {
   border: 1px solid #FFFFFF;	
   font-family: 'Open Sans', sans-serif;
 }
+#tbodyinfo th {
+  padding-top: 1px;
+  background-color: #9A2617;
+  color: #FFFFFF;
+  border: 1px solid #FFFFFF;	
+  font-family: 'Open Sans', sans-serif;
+}
+#tbodyinfo td {
+  padding-top: 1px;
+  background-color: #FFFFFF;
+  color: #000000;
+  border: 1px solid #9A2617;	
+  font-family: 'Open Sans', sans-serif;
+}
