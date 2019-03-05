@@ -10,9 +10,9 @@ body {
 h1 {
   color: #FFFFFF;
   text-align: center;
-  text-shadow: 2px 2px red;
+  text-shadow: 3px 3px red;
   height: 60px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'PT Sans', Helvetica, sans-serif;
   font-style: italic;
   font-size: 200%;
 }
@@ -30,7 +30,7 @@ h1 {
   background-color: #9A2617;
   color: #FFFFFF;
   border: 1px solid #FFFFFF;	
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'PT Sans', Helvetica, sans-serif;
   font-size: 125%;
 }
 #tbodyinfo th {
@@ -38,14 +38,15 @@ h1 {
   background-color: #9A2617;
   color: #FFFFFF;
   border: 1px solid #FFFFFF;	
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'PT Sans', Helvetica, sans-serif;
 }
 #tbodyinfo td {
   padding-top: 1px;
   background-color: #FFFFFF;
   color: #000000;
   border: 1px solid #9A2617;	
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'PT Sans', Helvetica, sans-serif;
+  font-weight: 700;
 }
 #earthimg {
   display: block;
