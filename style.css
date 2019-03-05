@@ -7,3 +7,8 @@ bodytmp {
 	background-size: 100% 100%;
   background-repeat: no-repeat;
 }
+h1 {
+  color: #9A2617;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
